@@ -1,0 +1,5 @@
+[EXIT] 0
+VCD info: dumpfile dac.vcd opened for output.
+PASS DAC: 260 writes, wraparound, channel, data hold, reset
+tb.sv:32: $finish called at 10436000 (1ps)
+

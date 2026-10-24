@@ -1,0 +1,5 @@
+[EXIT] 0
+VCD info: dumpfile sram.vcd opened for output.
+PASS SRAM: 16 addresses, bus release, simultaneous request
+tb.sv:43: $finish called at 164000 (1ps)
+

@@ -1,0 +1,5 @@
+[EXIT] 0
+VCD info: dumpfile servo.vcd opened for output.
+PASS servo: 20ms frame, 1/1.5/2ms pulse, limits, reset
+tb.sv:45: $finish called at 100036000 (1ps)
+
